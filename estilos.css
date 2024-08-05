@@ -22,3 +22,94 @@
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
+.imgq1{
+    height: 406px;
+    width: 398px;
+    background-image: url("distri.jpg")
+}
+
+.imgq2{
+    height: 517px;
+    width: 486px;
+    background-image: url("El-principio-de-Pauli.jpg");
+}
+
+
+.imgI1{
+    height: 438px;
+    width: 613px;
+    background-image: url("transtorno\ alimenticio.avif");
+}
+
+.imgI2{
+    height: 540px;
+    width: 561px;
+    background-image: url("ilustracion-concepto-anorexia_114360-3565.avif");
+}
+
+.imgI3{
+    height: 500px;
+    width: 554px;
+    background-image: url("bulimia.avif");
+}
+
+.imgB1{
+    height: 517px;
+    width: 504px;
+    background-image: url("Ciclo\ menstrual.jpg");
+}
+
+.imgB2{
+    height: 939px;
+    width: 1004px;
+    background-image: url("Fases-del-ciclo-menstrual.png");
+}
+
+.imgT1{
+    height: 304px;
+    width: 353px;
+    background-image: url("partes-circuitos-electricos.jpg");
+}
+
+.imgT2{
+    height: 220px;
+    width: 350px;
+    background-image: url("formula-resistencia-conductor1.webp");
+}
+
+.imgM1{
+    height: 145px;
+    width: 309px;
+    background-image: url("SUMA-DE-POLINOMIO-2-300x153.jpg");
+}
+
+.imgM2{
+    height: 155px;
+    width: 335px;
+    background-image: url("suma-de-3-polinomios.webp");
+}
+
+.imgM3{
+    height: 155px;
+    width: 335px;
+    background-image: url("resta\ de\ polinomios.jfif");
+}
+
+.imgM4{
+    height: 155px;
+    width: 208px;
+    background-image: url("resta-de-polinomios-2.gif");
+}
+
+.imgM5{
+    height: 316px;
+    width: 441px;
+    background-image: url("division.png");
+}
+
+.imgM6{
+    height: 208px;
+    width: 213px;
+    background-image: url("division\ 2.jpg")
+}
